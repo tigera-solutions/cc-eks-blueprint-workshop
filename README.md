@@ -1,4 +1,4 @@
-# AWS Dev Days: Hands-on EKS workshop </br> Visualize cluster traffic and identify security gaps
+# EKS Blueprint Workshops with Calico Cloud: Hands-on EKS workshop </br> Visualize cluster traffic and identify security gaps
 
 ## Welcome
 
